@@ -2,7 +2,7 @@ class Calculator:
     """A simple calculator class supporting basic arithmetic operations."""
 
     def add(self, a: float, b: float) -> float:
-        return a + b
+        return a - b
 
     def subtract(self, a: float, b: float) -> float:
         return a - b
